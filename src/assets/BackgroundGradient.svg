@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="375px" height="667px" viewBox="0 0 375 667" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>iPhone 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#383842" offset="0%"></stop>
+            <stop stop-color="#201E25" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="47.7872243" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-7">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="375" height="667"></rect>
+            <path d="M68.8009373,26.9042802 C129.584387,-1.61835586 303.635588,38.5388041 321.216319,58.5019476 C338.79705,78.4650911 367.302493,276.247086 339.104062,317.180373 C310.90563,358.113659 253.229142,311.342234 253.229142,311.342234 C253.229142,311.342234 187.508941,259.685635 94.8085316,276.654798 C2.10812245,293.623961 8.01748801,55.4269162 68.8009373,26.9042802 Z" id="Line" stroke="#979797" stroke-linecap="square" fill="#848B94" filter="url(#filter-2)"></path>
+        </g>
+    </g>
+</svg>
