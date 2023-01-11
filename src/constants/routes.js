@@ -1,0 +1,14 @@
+export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const PASSWORD_FORGET = '/pw-forget';
+export const ADMIN = '/admin';
+export const ADMIN_DETAILS = '/admin/:id';
+export const TEAM = '/team';
+export const TEAM_DETAILS = '/team/:id';
+export const NEW_TEAM = '/new-team'
+export const PRACTICE = '/practice'
+export const PRACTICE_LIST = '/practice/:id'
+export const PRACTICE_NEW = '/practice/:teamId/new'
